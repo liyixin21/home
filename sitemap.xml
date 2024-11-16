@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+    <!-- 网站首页 -->
+    <url>
+        <loc>https://www.liyixin.vip/</loc>
+        <lastmod>2024-11-16T08:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Blog 页面 -->
+    <url>
+        <loc>https://blog.220821.top/</loc>
+        <lastmod>2024-11-16T08:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Music 页面 -->
+    <url>
+        <loc>https://music.220821.top/</loc>
+        <lastmod>2024-11-16T08:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Hot 页面 -->
+    <url>
+        <loc>https://hot.220821.top/</loc>
+        <lastmod>2024-11-16T08:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- JiyuTool 页面 -->
+    <url>
+        <loc>https://jiyutool.220821.top/</loc>
+        <lastmod>2024-11-16T08:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
